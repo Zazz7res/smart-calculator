@@ -1,0 +1,17 @@
+# 编译产生的目标文件和可执行文件
+*.o
+*.out
+*.exe
+*.obj
+
+# 构建目录
+build/
+out/
+bin/
+
+# IDE 和编辑器配置 (VS Code, CLion 等)
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
